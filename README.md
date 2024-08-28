@@ -14,11 +14,11 @@ you love online with easy and simple steps in addition th best quality.
 
 ## How to run
 
-### From the Commandline run
-  - npm i
-  - npm run dev
+  ### From the Commandline run
+    - npm i
+    - npm run dev
 
-  ## Website Images
+## Website Images
 
 ![home](https://github.com/user-attachments/assets/ae24f215-10f3-4b0b-8526-048c7d48e838)
 
